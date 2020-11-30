@@ -1,0 +1,32 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Finance 101",
+      "description": "Learn the fundamentals of Finance",
+      "percentComplete": 26,
+      "favorite": true
+    },
+    {
+      "id": 2,
+      "title": "Vanilla JavaScript",
+      "description": "Learn the basics of Javascript (includes ES6, async JavaScript, etc.)",
+      "percentComplete": 0,
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "title": "Accounting",
+      "description": "Learn Financial Accounting",
+      "percentComplete": 0,
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "title": "Microeconomics",
+      "description": "Learn the basics of Microeconomics",
+      "percentComplete": 40,
+      "favorite": true
+    }
+  ]
+}
